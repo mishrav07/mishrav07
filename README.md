@@ -1,4 +1,4 @@
-# Hi there, I'm Vikas Mishra :)
+# Hi there, I'm Vikas Mishra 👋
 
 With 8 years of experience as a **Data Scientist**, I specialize in delivering data-driven solutions using Machine Learning, Deep Learning, and Natural Language Processing. I have a strong background in various domains including Fintech, Healthcare, Life Sciences, and Retail. Currently I am working for product based start-up TheMathCompany as Senior Data Scientist.
 
