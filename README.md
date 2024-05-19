@@ -38,4 +38,4 @@ With 8 years of experience as a **Data Scientist**, I specialize in delivering d
 - Designed recommendation systems for personalized shopping experiences.
 - Optimized inventory management through MMM
 
-🌱 You can follow me through linkedin: www.linkedin.com/in/mishrav7
+🌱 For additional information about my background and accomplishments, please visit my LinkedIn profile: www.linkedin.com/in/mishrav7
