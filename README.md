@@ -223,8 +223,4 @@ vikasmishra218@gmail.com
 
 ---
 
-# 📊 GitHub Stats
-
-> *"Turning data into intelligent products with Machine Learning and Generative AI."*
-
 Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
